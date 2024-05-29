@@ -13,7 +13,7 @@ const Products: NextPage = () => {
       </Head>
 
       <h1>
-        Nossos Produtos
+        Nossos Produtos fodas
       </h1>
     </>
   )
